@@ -1,3 +1,7 @@
 skin-cancers/
 
 .ipynb_checkpoints/
+
+train.p
+
+test.p
