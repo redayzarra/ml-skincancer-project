@@ -1,6 +1,6 @@
 # Skin Cancer Classification - Convolutional Network
 
-## Overview
+## Overview - Active Project
 This project utilizes a convolutional network to identify 9 different kinds of skin cancers including melanoma, nevus, and more. The model is trained on over 2,200 pictures of various skin cancers based off of this [dataset](https://www.kaggle.com/datasets/nodoubttome/skin-cancer9-classesisic). This model implements fundamental computer vision and classification techniques and includes a step-by-step implementation of the model as well as in-depth notes to customize the model further for higher accuracy.
 
 
